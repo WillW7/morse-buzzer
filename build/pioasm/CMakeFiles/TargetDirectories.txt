@@ -1,0 +1,3 @@
+/Users/wrighty/Desktop/Computer Systems II/pico/morse/build/pioasm/CMakeFiles/pioasm.dir
+/Users/wrighty/Desktop/Computer Systems II/pico/morse/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/wrighty/Desktop/Computer Systems II/pico/morse/build/pioasm/CMakeFiles/rebuild_cache.dir
