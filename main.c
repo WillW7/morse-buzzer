@@ -1,3 +1,6 @@
+// adapted from https://github.com/raspberrypi/pico-examples/blob/master/picoboard/blinky/blinky.c
+// also a solution ^
+
 #include <stdio.h>
 #include "pico/stdlib.h"
 
